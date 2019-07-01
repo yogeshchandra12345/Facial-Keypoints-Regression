@@ -6,5 +6,7 @@ Keypoints are used as a building block in several applications such as tracking 
 
 Collect Data:
 1. Download Images from the following drive link.
-https://drive.google.com/open?id=11TjfrbLhDsDhSs1KnzGDjgiCUzMtjHbO
+
+  https://drive.google.com/open?id=11TjfrbLhDsDhSs1KnzGDjgiCUzMtjHbO
+
 2. Keypoints data ( total 14 Landmarks ) are present in gt.csv file.
